@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dfeb2cf2fa40ba45ab8f038bedb2c6c, type: 3}
+  m_Name: Glalie
+  m_EditorClassIdentifier: 
+  name: Glalie
+  description: 
+  frontSprite: {fileID: 21300000, guid: 911d8fe4aeede944fa0b9ed01ba0ee4e, type: 3}
+  backSprite: {fileID: 21300000, guid: b5db950d961b0f24d9a262c38f78fc1a, type: 3}
+  cry: {fileID: 8300000, guid: 81c97ce84f25c3b4f865699742a1a259, type: 3}
+  type1: 6
+  type2: 0
+  maxHP: 80
+  attack: 80
+  deffense: 80
+  spAttack: 80
+  spDefense: 80
+  speed: 80
+  knownMoves:
+  - {fileID: 11400000, guid: 27184f0f544037744a12b1aade155ea3, type: 2}
+  - {fileID: 11400000, guid: 490e4cafb9c32094ab34bf7a85002c9c, type: 2}
+  - {fileID: 11400000, guid: ead792949b8ecba48a50a1d955270ebb, type: 2}
+  - {fileID: 11400000, guid: 542292ad41e7e4d43af36526c7e6d673, type: 2}

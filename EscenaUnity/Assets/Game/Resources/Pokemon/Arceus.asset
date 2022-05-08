@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dfeb2cf2fa40ba45ab8f038bedb2c6c, type: 3}
+  m_Name: Arceus
+  m_EditorClassIdentifier: 
+  name: Arceus
+  description: 
+  frontSprite: {fileID: 21300000, guid: a44a03ed8bf2c43408561b75517c89eb, type: 3}
+  backSprite: {fileID: 21300000, guid: 9e085c80f7497d644b3caa1963a72235, type: 3}
+  cry: {fileID: 8300000, guid: 1dc6a83a933e1504ebf018958893c3a2, type: 3}
+  type1: 3
+  type2: 0
+  maxHP: 120
+  attack: 120
+  deffense: 120
+  spAttack: 120
+  spDefense: 120
+  speed: 120
+  knownMoves:
+  - {fileID: 11400000, guid: 7e8d8529dfa9aca48bb41e0484deea28, type: 2}
+  - {fileID: 11400000, guid: b3d4af4621301b4469fafdce9d77a58c, type: 2}
+  - {fileID: 11400000, guid: 0af8abab7ed1db947bce866d085257cf, type: 2}

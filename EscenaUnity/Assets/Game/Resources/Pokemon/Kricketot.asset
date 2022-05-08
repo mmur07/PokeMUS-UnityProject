@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dfeb2cf2fa40ba45ab8f038bedb2c6c, type: 3}
+  m_Name: Kricketot
+  m_EditorClassIdentifier: 
+  name: Kricketot
+  description: 
+  frontSprite: {fileID: 21300000, guid: 1429433e6d1d30b4b8eaba85155bdaee, type: 3}
+  backSprite: {fileID: 21300000, guid: c83eaabd10df5b64eb3a8df37086c19c, type: 3}
+  cry: {fileID: 8300000, guid: 31d20d0e2106ee14093f290aec423b78, type: 3}
+  type1: 12
+  type2: 0
+  maxHP: 37
+  attack: 25
+  deffense: 41
+  spAttack: 25
+  spDefense: 41
+  speed: 25
+  knownMoves:
+  - {fileID: 11400000, guid: e14eee1f66e2e1044b629211ccd91e33, type: 2}

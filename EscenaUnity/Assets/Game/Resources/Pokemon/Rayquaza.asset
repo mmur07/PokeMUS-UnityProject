@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dfeb2cf2fa40ba45ab8f038bedb2c6c, type: 3}
+  m_Name: Rayquaza
+  m_EditorClassIdentifier: 
+  name: Rayquaza
+  description: 
+  frontSprite: {fileID: 21300000, guid: a900ec9888e40ee46bdbc60cfa73fe14, type: 3}
+  backSprite: {fileID: 21300000, guid: bac31b025f7abaa4dab77f59461639fb, type: 3}
+  cry: {fileID: 8300000, guid: 15b955fddedf8e1448d996a6b978a3c2, type: 3}
+  type1: 15
+  type2: 10
+  maxHP: 105
+  attack: 150
+  deffense: 90
+  spAttack: 150
+  spDefense: 90
+  speed: 95
+  knownMoves:
+  - {fileID: 11400000, guid: bca2359a0212bed44951158caac2bd80, type: 2}
+  - {fileID: 11400000, guid: 0cf9020c57920954a99fd68bf54f30d1, type: 2}
+  - {fileID: 11400000, guid: dabf82eec6036aa4c9ae616b7a44f6ea, type: 2}
+  - {fileID: 11400000, guid: 5320a1b3f18509c4e89860016b9a3b5b, type: 2}

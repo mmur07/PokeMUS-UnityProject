@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dfeb2cf2fa40ba45ab8f038bedb2c6c, type: 3}
+  m_Name: Chatot
+  m_EditorClassIdentifier: 
+  name: Chatot
+  description: 
+  frontSprite: {fileID: 21300000, guid: 437ea3e154db32a4483e451c24229110, type: 3}
+  backSprite: {fileID: 21300000, guid: f6113325584dfc24f9b01b34dfb4faa8, type: 3}
+  cry: {fileID: 8300000, guid: 3cc526589dc2d2244b8ac80010931765, type: 3}
+  type1: 1
+  type2: 10
+  maxHP: 76
+  attack: 65
+  deffense: 45
+  spAttack: 92
+  spDefense: 42
+  speed: 91
+  knownMoves:
+  - {fileID: 11400000, guid: e14eee1f66e2e1044b629211ccd91e33, type: 2}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dfeb2cf2fa40ba45ab8f038bedb2c6c, type: 3}
+  m_Name: Milotic_vsNinja
+  m_EditorClassIdentifier: 
+  name: Milotic
+  description: 
+  frontSprite: {fileID: 21300000, guid: 4d13f8030fced6a428a190c5cbd17047, type: 3}
+  backSprite: {fileID: 21300000, guid: 954458b883c0c0d488943b80de7564b4, type: 3}
+  cry: {fileID: 8300000, guid: b924bcf4c987c5040b04e2adad040abe, type: 3}
+  type1: 3
+  type2: 0
+  maxHP: 95
+  attack: 60
+  deffense: 49
+  spAttack: 100
+  spDefense: 125
+  speed: 100
+  knownMoves:
+  - {fileID: 11400000, guid: 490e4cafb9c32094ab34bf7a85002c9c, type: 2}

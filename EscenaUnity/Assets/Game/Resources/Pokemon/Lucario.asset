@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dfeb2cf2fa40ba45ab8f038bedb2c6c, type: 3}
+  m_Name: Lucario
+  m_EditorClassIdentifier: 
+  name: Lucario
+  description: 
+  frontSprite: {fileID: 21300000, guid: 3321131cf934bd94bb92fb13838e2ceb, type: 3}
+  backSprite: {fileID: 21300000, guid: 2583e16898617ed45acd58009e02829e, type: 3}
+  cry: {fileID: 8300000, guid: eefd861c737327c4fa364bfee6a0c9cd, type: 3}
+  type1: 7
+  type2: 17
+  maxHP: 70
+  attack: 110
+  deffense: 70
+  spAttack: 115
+  spDefense: 70
+  speed: 90
+  knownMoves:
+  - {fileID: 11400000, guid: ba00e1f681d3b0a47a2d92375bb55dff, type: 2}
+  - {fileID: 11400000, guid: 8c5bf79f6d4f9c44e983d191f882bc67, type: 2}
+  - {fileID: 11400000, guid: cf7abf35227b5a348b1524bf526c7c20, type: 2}
+  - {fileID: 11400000, guid: 0fab8b205d3c5634286b8e28acff93b7, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dfeb2cf2fa40ba45ab8f038bedb2c6c, type: 3}
+  m_Name: Mismagius
+  m_EditorClassIdentifier: 
+  name: Mismagius
+  description: 
+  frontSprite: {fileID: 21300000, guid: ab4123c9d05dfa64982962640720d841, type: 3}
+  backSprite: {fileID: 21300000, guid: 28e16bf3c6ec54245b81122f86fd7ff0, type: 3}
+  cry: {fileID: 8300000, guid: e14a4cb4a207e5a4daae6a309c97b3b3, type: 3}
+  type1: 14
+  type2: 0
+  maxHP: 60
+  attack: 60
+  deffense: 60
+  spAttack: 105
+  spDefense: 105
+  speed: 105
+  knownMoves:
+  - {fileID: 11400000, guid: 6a36994c438f36e4793335c7fc85b700, type: 2}
+  - {fileID: 11400000, guid: 1fed7d95d01127a4eb60c08c786b6e45, type: 2}
+  - {fileID: 11400000, guid: 7e8d8529dfa9aca48bb41e0484deea28, type: 2}
+  - {fileID: 11400000, guid: 8dfda1ea73783e649b05016de5be95cc, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dfeb2cf2fa40ba45ab8f038bedb2c6c, type: 3}
+  m_Name: Heracross
+  m_EditorClassIdentifier: 
+  name: Heracross
+  description: 
+  frontSprite: {fileID: 21300000, guid: a05f7665c5a7da84aa350f80a0f51cce, type: 3}
+  backSprite: {fileID: 21300000, guid: d5383648589631947934817ed143786b, type: 3}
+  cry: {fileID: 8300000, guid: 8cc7935428a09464e85975eae1f8a6a9, type: 3}
+  type1: 12
+  type2: 7
+  maxHP: 80
+  attack: 125
+  deffense: 75
+  spAttack: 40
+  spDefense: 95
+  speed: 85
+  knownMoves:
+  - {fileID: 11400000, guid: 51ed06ecc211baa4e817b9119291d217, type: 2}
+  - {fileID: 11400000, guid: 528611fb6bff6a743b3ca1350ddbe0cc, type: 2}
+  - {fileID: 11400000, guid: c55fc5676ff789c4383ce742168f7e2a, type: 2}
+  - {fileID: 11400000, guid: 62b02cb4b629ce54a906533a05778a66, type: 2}

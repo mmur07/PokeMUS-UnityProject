@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dfeb2cf2fa40ba45ab8f038bedb2c6c, type: 3}
+  m_Name: 4HBD
+  m_EditorClassIdentifier: 
+  name: 4HBD
+  description: 
+  frontSprite: {fileID: 21300000, guid: c5c7e94b574fabb4c8d662c3709ebfb5, type: 3}
+  backSprite: {fileID: 21300000, guid: c5c7e94b574fabb4c8d662c3709ebfb5, type: 3}
+  cry: {fileID: 8300000, guid: f310df455a9f6fa468479d117f618c02, type: 3}
+  type1: 10
+  type2: 17
+  maxHP: 65
+  attack: 80
+  deffense: 140
+  spAttack: 40
+  spDefense: 70
+  speed: 70
+  knownMoves:
+  - {fileID: 11400000, guid: 6a7c6541b60afa64bb39727d3ab00c83, type: 2}

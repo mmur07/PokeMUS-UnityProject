@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dfeb2cf2fa40ba45ab8f038bedb2c6c, type: 3}
+  m_Name: Swampert
+  m_EditorClassIdentifier: 
+  name: Swampert
+  description: 
+  frontSprite: {fileID: 21300000, guid: 3fbd2f00cc9bb5e469b2b91fa7f0252f, type: 3}
+  backSprite: {fileID: 21300000, guid: 3662f6127dae830428fb4576f0287b0e, type: 3}
+  cry: {fileID: 8300000, guid: 96ca27b1166de794dbc44421a0e75e21, type: 3}
+  type1: 3
+  type2: 9
+  maxHP: 100
+  attack: 110
+  deffense: 90
+  spAttack: 85
+  spDefense: 90
+  speed: 60
+  knownMoves:
+  - {fileID: 11400000, guid: 03d394d78a87a684698416308e90aa88, type: 2}
+  - {fileID: 11400000, guid: 528611fb6bff6a743b3ca1350ddbe0cc, type: 2}
+  - {fileID: 11400000, guid: 37a2e64cef2c54c419fbdbbe5d84c7ab, type: 2}
+  - {fileID: 11400000, guid: 856f88cae31dc92449dfc6f4eff09f58, type: 2}
